@@ -1,0 +1,7 @@
+This will help understand Navigation component through the best architecture component
+1. DrawerLayout (Menu Drawer)
+2. AppBarlayout
+3. NavHostFragment
+4. Passing parameter from one fragment to another 
+5. Menu 
+6. Share using the ShareCompat
